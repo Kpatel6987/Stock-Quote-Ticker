@@ -30,7 +30,7 @@ def run():
     print ("\n")
     threading.Timer(5, run).start()
 
-partA()
+run()
 
     
 
